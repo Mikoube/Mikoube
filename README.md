@@ -18,5 +18,6 @@ And finish with a lite http server on port 9000.
 
 Just call the script from the directory you want...
 
+![image](https://user-images.githubusercontent.com/3897079/179423512-183f6cdc-d98c-4793-9876-fc008b527017.png)
 
 
