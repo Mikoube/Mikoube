@@ -1,0 +1,3 @@
+linpeas.sh,https://github.com/carlospolop/PEASS-ng/releases/download/20220717/linpeas.sh,curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
+les.sh,https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linux-exploit-suggester.sh,wget https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linux-exploit-suggester.sh
+linEnum.sh,https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
